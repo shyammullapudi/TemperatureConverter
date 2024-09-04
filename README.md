@@ -35,10 +35,13 @@ File Structure
 
 
 License
+
 This project is open-source and available under the MIT License.
 
 Contributing
+
 Contributions are welcome! If you have any suggestions or find any bugs, please feel free to open an issue or submit a pull request.
 
 Contact
+
 For any questions or feedback, please reach out to me at mullapudishyam498@gmail.com
