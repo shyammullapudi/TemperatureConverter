@@ -33,8 +33,6 @@ File Structure
 
 . index.js: The JavaScript file containing the logic for temperature conversion.
 
-Live Demo
-You can check out a live demo of the project here.
 
 License
 This project is open-source and available under the MIT License.
