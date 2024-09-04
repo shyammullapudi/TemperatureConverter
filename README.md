@@ -19,3 +19,24 @@ A simple and responsive web application to convert temperatures between Celsius 
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/temperature-converter.git
+
+   Open index.html in your preferred web browser.
+2. Enter a temperature value in the input field.
+3. Select the unit (Celsius or Fahrenheit) from the dropdown menu.
+4. Click the "Convert" button to see the converted temperature.
+
+File Structure
+. index.html: The main HTML file containing the structure of the web page.
+. index.css: The CSS file for styling the web page.
+. index.js: The JavaScript file containing the logic for temperature conversion.
+Live Demo
+You can check out a live demo of the project here.
+
+License
+This project is open-source and available under the MIT License.
+
+Contributing
+Contributions are welcome! If you have any suggestions or find any bugs, please feel free to open an issue or submit a pull request.
+
+Contact
+For any questions or feedback, please reach out to me at mullapudishyam498@gmail.com
