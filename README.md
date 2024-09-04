@@ -26,9 +26,13 @@ A simple and responsive web application to convert temperatures between Celsius 
 4. Click the "Convert" button to see the converted temperature.
 
 File Structure
+
 . index.html: The main HTML file containing the structure of the web page.
+
 . index.css: The CSS file for styling the web page.
+
 . index.js: The JavaScript file containing the logic for temperature conversion.
+
 Live Demo
 You can check out a live demo of the project here.
 
